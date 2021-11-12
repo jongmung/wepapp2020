@@ -1,0 +1,8 @@
+iducs/jsp201812061/wepapp2020/HelloServlet.java
+ iducs.jsp201812061.wepapp2020.HelloServlet
+iducs/jsp201812061/wepapp2020/HelloResource.java
+ iducs.jsp201812061.wepapp2020.HelloResource
+iducs/jsp201812061/wepapp2020/HelloApplication.java
+ iducs.jsp201812061.wepapp2020.HelloApplication
+jspservlet/ch04/ResponsiveForm.java
+ jspservlet.ch04.ResponsiveForm
